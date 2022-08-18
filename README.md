@@ -1,6 +1,6 @@
 # My-First-EchoBot
 
-##To try this EchoBot
+## To try this EchoBot
 - Clone the repository
 
     ```bash
